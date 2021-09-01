@@ -32,3 +32,4 @@ Anaconda虛擬環境
 
 '''python
 conda create -n slomo_test
+'''
