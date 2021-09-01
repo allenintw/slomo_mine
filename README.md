@@ -25,3 +25,10 @@ i
 
 關鍵詞：影片幀插值、
 多幀插值 、巢狀結構 、 X-ray醫學影片 。
+
+環境建立
+
+Anaconda虛擬環境
+
+conda create -n slomo_test
+
