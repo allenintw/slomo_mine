@@ -1,7 +1,7 @@
 # slomo_mine
 
-i
 巢狀模型用於醫學影片幀插值
+
 
 影片幀插值 (Video Frame Interpolation)的目的主要在於從給定的兩個連續影
 像幀中，透過判斷影像中物體移動的方向與速率來得到光流 (Optical Flow)，藉此
@@ -29,6 +29,5 @@ i
 環境建立
 
 Anaconda虛擬環境
-
 conda create -n slomo_test
 
