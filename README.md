@@ -29,8 +29,12 @@
 # 環境建立
 
 Anaconda虛擬環境
-
 ```
 conda create -n slomo_test
 conda activate slomo_test
+```
+
+套件安裝
+```
+
 ```
