@@ -42,4 +42,5 @@ pip install tqdm
 pip install natsort
 pip install ffmpeg
 conda install -c conda-forge tensorboardx
+conda install -c conda-forge nvidia-apex
 ```
