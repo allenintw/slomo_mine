@@ -1,6 +1,6 @@
 # slomo_mine
 
-巢狀模型用於醫學影片幀插值
+# 巢狀模型用於醫學影片幀插值
 
 
 影片幀插值 (Video Frame Interpolation)的目的主要在於從給定的兩個連續影
