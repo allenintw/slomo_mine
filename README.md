@@ -29,5 +29,6 @@
 # 環境建立
 
 Anaconda虛擬環境
-====
-'''conda create -n slomo_test
+
+'''python
+conda create -n slomo_test
